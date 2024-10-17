@@ -6,6 +6,6 @@ addons.setConfig({
     ...themes.dark,
     brandImage: './icon.svg',
     brandTitle: 'SOURAV KARKI Components',
-    brandUrl: 'https://hamishw.com',
+    brandUrl: 'https://sourav.com',
   },
 });

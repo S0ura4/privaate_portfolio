@@ -1,8 +1,7 @@
 {
   "name": "portfolio",
-  "homepage": "https://hamishw.com",
+  "homepage": "https://sourav.com",
   "description": "Portfolio site for SOURAV KARKI",
-  "repository": "https://github.com/HamishMW/portfolio.git",
   "author": "SOURAV KARKI",
   "sideEffects": false,
   "type": "module",
